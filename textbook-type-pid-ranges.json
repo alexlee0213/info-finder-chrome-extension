@@ -1,0 +1,738 @@
+[
+  {
+    "textbookId": 9,
+    "type": "formativetest",
+    "ranges": [
+      {
+        "start": 1,
+        "end": 170
+      }
+    ]
+  },
+  {
+    "textbookId": 9,
+    "type": "lessontest",
+    "ranges": [
+      {
+        "start": 845,
+        "end": 1004
+      }
+    ]
+  },
+  {
+    "textbookId": 9,
+    "type": "diagnostictest",
+    "ranges": [
+      {
+        "start": 1565,
+        "end": 1627
+      },
+      {
+        "start": 6850,
+        "end": 6850
+      }
+    ]
+  },
+  {
+    "textbookId": 9,
+    "type": "summativetest",
+    "ranges": [
+      {
+        "start": 1691,
+        "end": 1790
+      }
+    ]
+  },
+  {
+    "textbookId": 9,
+    "type": "integratedlearning",
+    "ranges": [
+      {
+        "start": 2090,
+        "end": 2392
+      },
+      {
+        "start": 9227,
+        "end": 9230
+      }
+    ]
+  },
+  {
+    "textbookId": 9,
+    "type": "integratedlearningsingle",
+    "ranges": [
+      {
+        "start": 4075,
+        "end": 4558
+      },
+      {
+        "start": 8590,
+        "end": 8590
+      }
+    ]
+  },
+  {
+    "textbookId": 9,
+    "type": "problemsolving",
+    "ranges": [
+      {
+        "start": 2998,
+        "end": 3356
+      },
+      {
+        "start": 6856,
+        "end": 6856
+      },
+      {
+        "start": 8587,
+        "end": 8589
+      },
+      {
+        "start": 9231,
+        "end": 9398
+      }
+    ]
+  },
+  {
+    "textbookId": 10,
+    "type": "formativetest",
+    "ranges": [
+      {
+        "start": 171,
+        "end": 340
+      }
+    ]
+  },
+  {
+    "textbookId": 10,
+    "type": "lessontest",
+    "ranges": [
+      {
+        "start": 1005,
+        "end": 1164
+      }
+    ]
+  },
+  {
+    "textbookId": 10,
+    "type": "diagnostictest",
+    "ranges": [
+      {
+        "start": 1628,
+        "end": 1690
+      },
+      {
+        "start": 6851,
+        "end": 6851
+      }
+    ]
+  },
+  {
+    "textbookId": 10,
+    "type": "summativetest",
+    "ranges": [
+      {
+        "start": 1791,
+        "end": 1890
+      }
+    ]
+  },
+  {
+    "textbookId": 10,
+    "type": "integratedlearning",
+    "ranges": [
+      {
+        "start": 2393,
+        "end": 2615
+      }
+    ]
+  },
+  {
+    "textbookId": 10,
+    "type": "integratedlearningsingle",
+    "ranges": [
+      {
+        "start": 4559,
+        "end": 5393
+      }
+    ]
+  },
+  {
+    "textbookId": 10,
+    "type": "problemsolving",
+    "ranges": [
+      {
+        "start": 3357,
+        "end": 3714
+      },
+      {
+        "start": 9399,
+        "end": 9553
+      }
+    ]
+  },
+  {
+    "textbookId": 47,
+    "type": "formativetest",
+    "ranges": [
+      {
+        "start": 9800,
+        "end": 9983
+      }
+    ]
+  },
+  {
+    "textbookId": 47,
+    "type": "lessontest",
+    "ranges": [
+      {
+        "start": 10431,
+        "end": 10590
+      }
+    ]
+  },
+  {
+    "textbookId": 47,
+    "type": "diagnostictest",
+    "ranges": [
+      {
+        "start": 10367,
+        "end": 10430
+      }
+    ]
+  },
+  {
+    "textbookId": 47,
+    "type": "summativetest",
+    "ranges": [
+      {
+        "start": 15941,
+        "end": 16040
+      }
+    ]
+  },
+  {
+    "textbookId": 47,
+    "type": "integratedlearning",
+    "ranges": [
+      {
+        "start": 10591,
+        "end": 10871
+      },
+      {
+        "start": 12307,
+        "end": 12314
+      }
+    ]
+  },
+  {
+    "textbookId": 47,
+    "type": "integratedlearningsingle",
+    "ranges": [
+      {
+        "start": 9984,
+        "end": 10315
+      },
+      {
+        "start": 11095,
+        "end": 11634
+      },
+      {
+        "start": 14543,
+        "end": 14590
+      }
+    ]
+  },
+  {
+    "textbookId": 47,
+    "type": "problemsolving",
+    "ranges": [
+      {
+        "start": 10316,
+        "end": 10366
+      },
+      {
+        "start": 12067,
+        "end": 12306
+      },
+      {
+        "start": 14111,
+        "end": 14542
+      },
+      {
+        "start": 14638,
+        "end": 14786
+      },
+      {
+        "start": 15647,
+        "end": 15814
+      }
+    ]
+  },
+  {
+    "textbookId": 48,
+    "type": "formativetest",
+    "ranges": [
+      {
+        "start": 12315,
+        "end": 12498
+      }
+    ]
+  },
+  {
+    "textbookId": 48,
+    "type": "lessontest",
+    "ranges": [
+      {
+        "start": 13951,
+        "end": 14110
+      }
+    ]
+  },
+  {
+    "textbookId": 48,
+    "type": "diagnostictest",
+    "ranges": [
+      {
+        "start": 13887,
+        "end": 13950
+      }
+    ]
+  },
+  {
+    "textbookId": 48,
+    "type": "summativetest",
+    "ranges": [
+      {
+        "start": 16041,
+        "end": 16140
+      }
+    ]
+  },
+  {
+    "textbookId": 48,
+    "type": "integratedlearning",
+    "ranges": [
+      {
+        "start": 10872,
+        "end": 11094
+      }
+    ]
+  },
+  {
+    "textbookId": 48,
+    "type": "integratedlearningsingle",
+    "ranges": [
+      {
+        "start": 12499,
+        "end": 13373
+      },
+      {
+        "start": 14591,
+        "end": 14607
+      },
+      {
+        "start": 14607,
+        "end": 14637
+      }
+    ]
+  },
+  {
+    "textbookId": 48,
+    "type": "problemsolving",
+    "ranges": [
+      {
+        "start": 13374,
+        "end": 13379
+      },
+      {
+        "start": 13419,
+        "end": 13424
+      },
+      {
+        "start": 13494,
+        "end": 13535
+      },
+      {
+        "start": 13842,
+        "end": 13886
+      },
+      {
+        "start": 14795,
+        "end": 15640
+      },
+      {
+        "start": 15815,
+        "end": 15940
+      }
+    ]
+  },
+  {
+    "textbookId": 11,
+    "type": "formativetest",
+    "ranges": [
+      {
+        "start": 341,
+        "end": 472
+      }
+    ]
+  },
+  {
+    "textbookId": 11,
+    "type": "lessontest",
+    "ranges": [
+      {
+        "start": 1165,
+        "end": 1244
+      }
+    ]
+  },
+  {
+    "textbookId": 11,
+    "type": "diagnostictest",
+    "ranges": [
+      {
+        "start": 8459,
+        "end": 8490
+      }
+    ]
+  },
+  {
+    "textbookId": 11,
+    "type": "summativetest",
+    "ranges": [
+      {
+        "start": 1891,
+        "end": 1940
+      }
+    ]
+  },
+  {
+    "textbookId": 11,
+    "type": "integratedlearning",
+    "ranges": [
+      {
+        "start": 2616,
+        "end": 2730
+      },
+      {
+        "start": 6853,
+        "end": 6853
+      },
+      {
+        "start": 9220,
+        "end": 9226
+      }
+    ]
+  },
+  {
+    "textbookId": 11,
+    "type": "integratedlearningsingle",
+    "ranges": [
+      {
+        "start": 5394,
+        "end": 5694
+      },
+      {
+        "start": 6944,
+        "end": 7069
+      },
+      {
+        "start": 7730,
+        "end": 7918
+      }
+    ]
+  },
+  {
+    "textbookId": 11,
+    "type": "problemsolving",
+    "ranges": [
+      {
+        "start": 3715,
+        "end": 3744
+      },
+      {
+        "start": 7193,
+        "end": 7342
+      },
+      {
+        "start": 9677,
+        "end": 9730
+      }
+    ]
+  },
+  {
+    "textbookId": 12,
+    "type": "formativetest",
+    "ranges": [
+      {
+        "start": 593,
+        "end": 724
+      }
+    ]
+  },
+  {
+    "textbookId": 12,
+    "type": "lessontest",
+    "ranges": [
+      {
+        "start": 1405,
+        "end": 1484
+      }
+    ]
+  },
+  {
+    "textbookId": 12,
+    "type": "diagnostictest",
+    "ranges": [
+      {
+        "start": 8523,
+        "end": 8554
+      }
+    ]
+  },
+  {
+    "textbookId": 12,
+    "type": "summativetest",
+    "ranges": [
+      {
+        "start": 1991,
+        "end": 2040
+      }
+    ]
+  },
+  {
+    "textbookId": 12,
+    "type": "integratedlearning",
+    "ranges": [
+      {
+        "start": 7070,
+        "end": 7192
+      },
+      {
+        "start": 9214,
+        "end": 9219
+      }
+    ]
+  },
+  {
+    "textbookId": 12,
+    "type": "integratedlearningsingle",
+    "ranges": [
+      {
+        "start": 6338,
+        "end": 6602
+      },
+      {
+        "start": 7919,
+        "end": 8179
+      }
+    ]
+  },
+  {
+    "textbookId": 12,
+    "type": "problemsolving",
+    "ranges": [
+      {
+        "start": 3895,
+        "end": 3924
+      },
+      {
+        "start": 7430,
+        "end": 7579
+      },
+      {
+        "start": 9554,
+        "end": 9592
+      }
+    ]
+  },
+  {
+    "textbookId": 13,
+    "type": "formativetest",
+    "ranges": [
+      {
+        "start": 473,
+        "end": 592
+      }
+    ]
+  },
+  {
+    "textbookId": 13,
+    "type": "lessontest",
+    "ranges": [
+      {
+        "start": 1245,
+        "end": 1404
+      }
+    ]
+  },
+  {
+    "textbookId": 13,
+    "type": "diagnostictest",
+    "ranges": [
+      {
+        "start": 8491,
+        "end": 8522
+      }
+    ]
+  },
+  {
+    "textbookId": 13,
+    "type": "summativetest",
+    "ranges": [
+      {
+        "start": 1941,
+        "end": 1990
+      }
+    ]
+  },
+  {
+    "textbookId": 13,
+    "type": "integratedlearning",
+    "ranges": [
+      {
+        "start": 2731,
+        "end": 2861
+      },
+      {
+        "start": 6854,
+        "end": 6854
+      },
+      {
+        "start": 9212,
+        "end": 9213
+      }
+    ]
+  },
+  {
+    "textbookId": 13,
+    "type": "integratedlearningsingle",
+    "ranges": [
+      {
+        "start": 5713,
+        "end": 6337
+      }
+    ]
+  },
+  {
+    "textbookId": 13,
+    "type": "problemsolving",
+    "ranges": [
+      {
+        "start": 3805,
+        "end": 3834
+      },
+      {
+        "start": 6857,
+        "end": 6895
+      },
+      {
+        "start": 6908,
+        "end": 6919
+      },
+      {
+        "start": 6932,
+        "end": 6943
+      },
+      {
+        "start": 7343,
+        "end": 7429
+      },
+      {
+        "start": 9731,
+        "end": 9799
+      }
+    ]
+  },
+  {
+    "textbookId": 14,
+    "type": "formativetest",
+    "ranges": [
+      {
+        "start": 725,
+        "end": 844
+      }
+    ]
+  },
+  {
+    "textbookId": 14,
+    "type": "lessontest",
+    "ranges": [
+      {
+        "start": 1485,
+        "end": 1564
+      }
+    ]
+  },
+  {
+    "textbookId": 14,
+    "type": "diagnostictest",
+    "ranges": [
+      {
+        "start": 8555,
+        "end": 8586
+      }
+    ]
+  },
+  {
+    "textbookId": 14,
+    "type": "summativetest",
+    "ranges": [
+      {
+        "start": 2041,
+        "end": 2089
+      },
+      {
+        "start": 6852,
+        "end": 6852
+      }
+    ]
+  },
+  {
+    "textbookId": 14,
+    "type": "integratedlearning",
+    "ranges": [
+      {
+        "start": 2863,
+        "end": 2997
+      },
+      {
+        "start": 6855,
+        "end": 6855
+      }
+    ]
+  },
+  {
+    "textbookId": 14,
+    "type": "integratedlearningsingle",
+    "ranges": [
+      {
+        "start": 6603,
+        "end": 6849
+      },
+      {
+        "start": 8180,
+        "end": 8458
+      }
+    ]
+  },
+  {
+    "textbookId": 14,
+    "type": "problemsolving",
+    "ranges": [
+      {
+        "start": 3985,
+        "end": 4014
+      },
+      {
+        "start": 7580,
+        "end": 7729
+      },
+      {
+        "start": 9593,
+        "end": 9676
+      }
+    ]
+  }
+]
