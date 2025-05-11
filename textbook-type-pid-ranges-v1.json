@@ -62,7 +62,7 @@
     "type": "integratedlearningsingle",
     "ranges": [
       {
-        "start": 4075,
+        "start": 4083,
         "end": 4558
       },
       {
@@ -74,16 +74,7 @@
   {
     "textbookId": 9,
     "type": "readingmaster",
-    "ranges": [
-      {
-        "start": 4075,
-        "end": 4558
-      },
-      {
-        "start": 8590,
-        "end": 8590
-      }
-    ]
+    "ranges": [{}]
   },
   {
     "textbookId": 9,
@@ -170,7 +161,7 @@
     "type": "integratedlearningsingle",
     "ranges": [
       {
-        "start": 4559,
+        "start": 4567,
         "end": 5393
       }
     ]
@@ -178,12 +169,7 @@
   {
     "textbookId": 10,
     "type": "readingmaster",
-    "ranges": [
-      {
-        "start": 4559,
-        "end": 5393
-      }
-    ]
+    "ranges": [{}]
   },
   {
     "textbookId": 10,
@@ -258,16 +244,12 @@
     "type": "integratedlearningsingle",
     "ranges": [
       {
-        "start": 9984,
+        "start": 9992,
         "end": 10315
       },
       {
         "start": 11095,
         "end": 11634
-      },
-      {
-        "start": 14543,
-        "end": 14590
       }
     ]
   },
@@ -275,14 +257,6 @@
     "textbookId": 47,
     "type": "readingmaster",
     "ranges": [
-      {
-        "start": 9984,
-        "end": 10315
-      },
-      {
-        "start": 11095,
-        "end": 11634
-      },
       {
         "start": 14543,
         "end": 14590
@@ -370,16 +344,8 @@
     "type": "integratedlearningsingle",
     "ranges": [
       {
-        "start": 12499,
+        "start": 12507,
         "end": 13373
-      },
-      {
-        "start": 14591,
-        "end": 14607
-      },
-      {
-        "start": 14607,
-        "end": 14637
       }
     ]
   },
@@ -387,10 +353,6 @@
     "textbookId": 48,
     "type": "readingmaster",
     "ranges": [
-      {
-        "start": 12499,
-        "end": 13373
-      },
       {
         "start": 14591,
         "end": 14607
@@ -502,7 +464,7 @@
     "type": "integratedlearningsingle",
     "ranges": [
       {
-        "start": 5394,
+        "start": 5398,
         "end": 5694
       },
       {
@@ -518,20 +480,7 @@
   {
     "textbookId": 11,
     "type": "readingmaster",
-    "ranges": [
-      {
-        "start": 5394,
-        "end": 5694
-      },
-      {
-        "start": 6944,
-        "end": 7069
-      },
-      {
-        "start": 7730,
-        "end": 7918
-      }
-    ]
+    "ranges": [{}]
   },
   {
     "textbookId": 11,
@@ -610,7 +559,7 @@
     "type": "integratedlearningsingle",
     "ranges": [
       {
-        "start": 6338,
+        "start": 6342,
         "end": 6602
       },
       {
@@ -622,16 +571,7 @@
   {
     "textbookId": 12,
     "type": "readingmaster",
-    "ranges": [
-      {
-        "start": 6338,
-        "end": 6602
-      },
-      {
-        "start": 7919,
-        "end": 8179
-      }
-    ]
+    "ranges": [{}]
   },
   {
     "textbookId": 12,
@@ -714,7 +654,7 @@
     "type": "integratedlearningsingle",
     "ranges": [
       {
-        "start": 5713,
+        "start": 5717,
         "end": 6337
       }
     ]
@@ -722,12 +662,7 @@
   {
     "textbookId": 13,
     "type": "readingmaster",
-    "ranges": [
-      {
-        "start": 5713,
-        "end": 6337
-      }
-    ]
+    "ranges": [{}]
   },
   {
     "textbookId": 13,
@@ -822,7 +757,7 @@
     "type": "integratedlearningsingle",
     "ranges": [
       {
-        "start": 6603,
+        "start": 6607,
         "end": 6849
       },
       {
@@ -834,16 +769,7 @@
   {
     "textbookId": 14,
     "type": "readingmaster",
-    "ranges": [
-      {
-        "start": 6603,
-        "end": 6849
-      },
-      {
-        "start": 8180,
-        "end": 8458
-      }
-    ]
+    "ranges": [{}]
   },
   {
     "textbookId": 14,
